@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/Tomasm21-war/static/js/main.ef3821ba.chunk.js",
+    "main.js.map": "/Tomasm21-war/static/js/main.ef3821ba.chunk.js.map",
+    "runtime-main.js": "/Tomasm21-war/static/js/runtime-main.ab24376e.js",
+    "runtime-main.js.map": "/Tomasm21-war/static/js/runtime-main.ab24376e.js.map",
+    "static/css/2.68a81a89.chunk.css": "/Tomasm21-war/static/css/2.68a81a89.chunk.css",
+    "static/js/2.9cc36649.chunk.js": "/Tomasm21-war/static/js/2.9cc36649.chunk.js",
+    "static/js/2.9cc36649.chunk.js.map": "/Tomasm21-war/static/js/2.9cc36649.chunk.js.map",
+    "static/js/3.c0bd3ae8.chunk.js": "/Tomasm21-war/static/js/3.c0bd3ae8.chunk.js",
+    "static/js/3.c0bd3ae8.chunk.js.map": "/Tomasm21-war/static/js/3.c0bd3ae8.chunk.js.map",
+    "index.html": "/Tomasm21-war/index.html",
+    "precache-manifest.768739bcf875f3ca0848ea8d3394b77e.js": "/Tomasm21-war/precache-manifest.768739bcf875f3ca0848ea8d3394b77e.js",
+    "service-worker.js": "/Tomasm21-war/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/Tomasm21-war/static/css/2.68a81a89.chunk.css.map",
+    "static/js/2.9cc36649.chunk.js.LICENSE.txt": "/Tomasm21-war/static/js/2.9cc36649.chunk.js.LICENSE.txt",
+    "static/media/GTX-980-Ti.png": "/Tomasm21-war/static/media/GTX-980-Ti.befee3a1.png",
+    "static/media/acer_desktop.jpg": "/Tomasm21-war/static/media/acer_desktop.b36f5142.jpg",
+    "static/media/office_soft.jpg": "/Tomasm21-war/static/media/office_soft.652cbc21.jpg",
+    "static/media/redmi_note.jpg": "/Tomasm21-war/static/media/redmi_note.f1976e1a.jpg",
+    "static/media/speakers_lt.jpg": "/Tomasm21-war/static/media/speakers_lt.d73b0745.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab24376e.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.9cc36649.chunk.js",
+    "static/js/main.ef3821ba.chunk.js"
+  ]
+}
